@@ -48,6 +48,10 @@ To access and utilize the PowerPoint presentation:
 
 4. Customize and modify the presentation as needed for your specific use case, including the slide titles mentioned above.
 
+## Challenges Faced
+
+Challenges Faced were mostly related to gathering the data from multiple sources.
+
 ## Contributing
 
 Contributions to this repository are not currently being accepted, as it is a sample repository. However, feel free to fork the repository and adapt it to your own requirements.
