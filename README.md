@@ -1,5 +1,7 @@
 # Zomato Food Truck Locator Integration
 
+![983e8a20bcf166b14f23103287885cdb](https://github.com/shridharkamathe/Titanic/assets/124047047/96332115-184f-4dcb-a66d-532f9f929081)
+
 This repository contains a PowerPoint presentation outlining the product strategy for integrating a food truck locator into Zomato, a popular online food delivery and restaurant discovery platform.
 
 ## Background
